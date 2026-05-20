@@ -1,0 +1,44 @@
+[
+  {
+    "testName": "Verify Web Application To Do card - Implement user authentication",
+    "project": "Web Application",
+    "column": "To Do",
+    "task": "Implement user authentication",
+    "tags": ["Feature", "High Priority"]
+  },
+  {
+    "testName": "Verify Web Application To Do card - Fix navigation bug",
+    "project": "Web Application",
+    "column": "To Do",
+    "task": "Fix navigation bug",
+    "tags": ["Bug"]
+  },
+  {
+    "testName": "Verify Web Application In Progress card - Design system updates",
+    "project": "Web Application",
+    "column": "In Progress",
+    "task": "Design system updates",
+    "tags": ["Design"]
+  },
+  {
+    "testName": "Verify Mobile Application To Do card - Push notification system",
+    "project": "Mobile Application",
+    "column": "To Do",
+    "task": "Push notification system",
+    "tags": ["Feature"]
+  },
+  {
+    "testName": "Verify Mobile Application In Progress card - Offline mode",
+    "project": "Mobile Application",
+    "column": "In Progress",
+    "task": "Offline mode",
+    "tags": ["Feature", "High Priority"]
+  },
+  {
+    "testName": "Verify Mobile Application Done card - App icon design",
+    "project": "Mobile Application",
+    "column": "Done",
+    "task": "App icon design",
+    "tags": ["Design"]
+  }
+]
